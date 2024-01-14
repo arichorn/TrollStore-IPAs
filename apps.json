@@ -4,6 +4,1152 @@
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
   "apps": [
     {
+      "name": "BHTikTokPlus",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "BandarHL / dayanch96 / zxcvbn's tweaked IPAs / mbs0ft",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "32.9.1-2.3",
+          "date": "2024-01-14",
+          "size": 244127363,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/BHTikTokPlus-32.9.1-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.9.0-2.3",
+          "date": "2024-01-09",
+          "size": 234418283,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/BHTikTokPlus-32.9.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.8.0-2.3",
+          "date": "2024-01-03",
+          "size": 235859225,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/BHTikTokPlus-32.8.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.7.0-2.3",
+          "date": "2023-12-28",
+          "size": 236887294,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/BHTikTokPlus-32.7.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.6.0-2.3",
+          "date": "2023-12-19",
+          "size": 236795267,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BHTikTokPlus-32.6.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.5.0-2.3",
+          "date": "2023-12-18",
+          "size": 244719404,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/BHTikTokPlus-32.5.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.4.0-2.3",
+          "date": "2023-12-05",
+          "size": 235256295,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BHTikTokPlus-32.4.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.3.0-2.3",
+          "date": "2023-11-28",
+          "size": 235569969,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/BHTikTokPlus-32.3.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.2.0-2.3",
+          "date": "2023-11-21",
+          "size": 230416806,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/BHTikTokPlus-32.2.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.1.0-2.3",
+          "date": "2023-11-15",
+          "size": 268499892,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHTikTokPlus-32.1.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "32.0.0-2.3",
+          "date": "2023-11-09",
+          "size": 251556245,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/BHTikTokPlus-32.0.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.9.0-2.3",
+          "date": "2023-11-01",
+          "size": 235764456,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BHTikTokPlus-31.9.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.8.0-2.3",
+          "date": "2023-10-25",
+          "size": 238521629,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/BHTikTokPlus-31.8.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.7.0-2.3",
+          "date": "2023-10-19",
+          "size": 237220393,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-19-2023/BHTikTokPlus-31.7.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.5.0-2.3",
+          "date": "2023-10-14",
+          "size": 239507576,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHTikTokPlus-31.5.0-2.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.5.0-2.2.1",
+          "date": "2023-10-09",
+          "size": 233187621,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/BHTikTokPlus-31.5.0-2.2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.4.0-2.2.1",
+          "date": "2023-10-03",
+          "size": 233623072,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/BHTikTokPlus-31.4.0-2.2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.3.0-2.2.1",
+          "date": "2023-09-21",
+          "size": 231208792,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/BHTikTokPlus-31.3.0-2.2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.2.0-2.2.1",
+          "date": "2023-09-18",
+          "size": 231301882,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BHTikTokPlus-31.2.0-2.2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.1.0-2.2",
+          "date": "2023-09-14",
+          "size": 230428022,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BHTikTokPlus-31.1.0-2.2.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.1.0-2.1",
+          "date": "2023-09-12",
+          "size": 230414152,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BHTikTokPlus-31.1.0-2.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.1.0-2.0",
+          "date": "2023-09-08",
+          "size": 170308209,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/BHTikTokPlus-31.1.0-2.0.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.0.2-2.0",
+          "date": "2023-09-05",
+          "size": 169559209,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/BHTikTokPlus-31.0.2-2.0.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.0.0-2.0",
+          "date": "2023-09-02",
+          "size": 169557840,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/BHTikTokPlus-31.0.0-2.0.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "31.0.0-1.4",
+          "date": "2023-08-31",
+          "size": 169398360,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/BHTikTokPlus-31.0.0-1.4.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.9.0-1.4",
+          "date": "2023-08-25",
+          "size": 167025365,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/BHTikTokPlus-30.9.0-1.4.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.8.0-1.4",
+          "date": "2023-08-22",
+          "size": 165875592,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/BHTikTokPlus-30.8.0-1.4.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.8.0-1.3",
+          "date": "2023-08-20",
+          "size": 165421921,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/BHTikTokPlus-30.8.0-1.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.7.0-1.3",
+          "date": "2023-08-11",
+          "size": 231427797,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2023/BHTikTokPlus-30.7.0-1.3.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.7.0-1.2",
+          "date": "2023-08-09",
+          "size": 228018550,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/BHTikTokPlus-30.7.0-1.2.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.6.0-1.2",
+          "date": "2023-08-07",
+          "size": 228787999,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2023/BHTikTokPlus-30.6.0-1.2.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.6.0-0.0.1",
+          "date": "2023-08-02",
+          "size": 169954110,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/BHTikTokPlus-30.6.0-0.0.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.5.0-0.0.1",
+          "date": "2023-07-27",
+          "size": 170947897,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2023/BHTikTokPlus-30.5.0-0.0.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.4.0-0.0.1",
+          "date": "2023-07-25",
+          "size": 169956138,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/BHTikTokPlus-30.4.0-0.0.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        },
+        {
+          "version": "30.3.0-0.0.1",
+          "date": "2023-07-13",
+          "size": 226368598,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2023/BHTikTokPlus-30.3.0-0.0.1.ipa",
+          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-14-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
+        }
+      ]
+    },
+    {
+      "name": "Crunchyroll",
+      "bundleIdentifier": "com.crunchyroll.iphone",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.crunchyroll.iphone.png",
+      "versions": [
+        {
+          "version": "4.41.0",
+          "date": "2024-01-14",
+          "size": 79174903,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/Crunchyroll-4.41.0.ipa",
+          "localizedDescription": "The app, in its unaltered form\u2014no tweaks, no cracks, no ad-block, simply a decrypted Crunchyroll app. It seems that the app isn't accessible in some countries, and a request prompted its inclusion. Since it functions (again) when decrypted with TrollStore 2, I decided to include it (back) in this list.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "4.40.0",
+          "date": "2023-12-01",
+          "size": 72594141,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Crunchyroll-4.40.0.ipa",
+          "localizedDescription": "The app, in its unaltered form\u2014no tweaks, no cracks, no ad-block, simply a decrypted Crunchyroll app. It seems that the app isn't accessible in some countries, and a request prompted its inclusion. Since it functions (again) when decrypted with TrollStore 2, I decided to include it (back) in this list.\nLast updated: 01-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Helium",
+      "bundleIdentifier": "com.leemin.helium",
+      "developerName": "leminlimez",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.helium.png",
+      "versions": [
+        {
+          "version": "2.2.1",
+          "date": "2024-01-14",
+          "size": 3924363,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/Helium-2.2.1.ipa",
+          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.1",
+          "date": "2024-01-13",
+          "size": 3874054,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/Helium-2.1.ipa",
+          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.2",
+          "date": "2024-01-13",
+          "size": 3896129,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/Helium-2.2.ipa",
+          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.0.2",
+          "date": "2023-12-26",
+          "size": 3829465,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2023/Helium-2.0.2.ipa",
+          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "2.0.1",
+          "date": "2023-12-24",
+          "size": 3827002,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Helium-2.0.1.ipa",
+          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 01-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Ignited",
+      "bundleIdentifier": "com.litritt.ignited",
+      "developerName": "LitRitt",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png",
+      "versions": [
+        {
+          "version": "1.8.4",
+          "date": "2024-01-14",
+          "size": 73703482,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/Ignited-1.8.4.ipa",
+          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.8.3",
+          "date": "2024-01-11",
+          "size": 73937401,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/Ignited-1.8.3.ipa",
+          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.2",
+          "date": "2023-12-24",
+          "size": 62168615,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Ignited-1.7.2.ipa",
+          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.7.1",
+          "date": "2023-12-12",
+          "size": 62108889,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Ignited-1.7.1.ipa",
+          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InstagramLRDCracked",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Crack_Sa1",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "2.5-312.0.1",
+          "date": "2024-01-14",
+          "size": 149060379,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/InstagramLRDCracked-2.5-312.0.1.ipa",
+          "localizedDescription": "Crack fixed, Similar features to TikTokLRD but specifically tailored for Instagram. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "InstagramNyx",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00 / nowesr1",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "313.0.2-1.2.0b",
+          "date": "2024-01-14",
+          "size": 153614267,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/InstagramNyx-313.0.2-1.2.0b.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "313.0.2-1.1.8",
+          "date": "2024-01-13",
+          "size": 147145429,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramNyx-313.0.2-1.1.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-1.1.8b2",
+          "date": "2024-01-03",
+          "size": 144606204,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/InstagramNyx-312.0.1-1.1.8b2.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-1.1.8",
+          "date": "2023-12-28",
+          "size": 145628785,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/InstagramNyx-312.0.1-1.1.8.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "312.0.1-1.1.6",
+          "date": "2023-12-25",
+          "size": 143349474,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/InstagramNyx-312.0.1-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "311.0.2-1.1.6",
+          "date": "2023-12-12",
+          "size": 142283496,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstagramNyx-311.0.2-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "310.0.4-1.1.6",
+          "date": "2023-12-11",
+          "size": 139562066,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InstagramNyx-310.0.4-1.1.6.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "310.0.4-1.1.4",
+          "date": "2023-12-04",
+          "size": 133602409,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstagramNyx-310.0.4-1.1.4.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "309.1.1-1.1.4",
+          "date": "2023-12-03",
+          "size": 133971258,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/InstagramNyx-309.1.1-1.1.4.ipa",
+          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "Paperback",
+      "bundleIdentifier": "dev.faizandurrani.moe.paperback.app",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/dev.faizandurrani.moe.paperback.app.png",
+      "versions": [
+        {
+          "version": "0.8.7",
+          "date": "2024-01-14",
+          "size": 10982924,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/Paperback-0.8.7.ipa",
+          "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 01-14-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "0.8.6",
+          "date": "2023-08-05",
+          "size": 10727226,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/Paperback-0.8.6.ipa",
+          "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 01-14-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "0.8.5",
+          "date": "2023-07-28",
+          "size": 11315329,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-28-2023/Paperback-0.8.5.ipa",
+          "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 01-14-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "0.8.3",
+          "date": "2023-07-25",
+          "size": 11269111,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/Paperback-0.8.3.ipa",
+          "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 01-14-2024\nStatus: \u2705 \ud83d\udc4d"
+        },
+        {
+          "version": "0.8.2",
+          "date": "2023-07-14",
+          "size": 29341961,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2023/Paperback-0.8.2.ipa",
+          "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 01-14-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "PicsArtPlusPlus",
+      "bundleIdentifier": "com.picsart.studio",
+      "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / FayezUpdates / \u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / Manpreet Singh @thisismanpreets / Qamislo - Apps / Turki / IPA Fire / HertzSign iPA Library",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
+      "versions": [
+        {
+          "version": "24.0.2",
+          "date": "2024-01-14",
+          "size": 100398039,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/PicsArtPlusPlus-24.0.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "24.0.1",
+          "date": "2024-01-11",
+          "size": 100312892,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/PicsArtPlusPlus-24.0.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.9.1",
+          "date": "2023-12-28",
+          "size": 104714105,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/PicsArtPlusPlus-23.9.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.8.1",
+          "date": "2023-12-12",
+          "size": 98696332,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/PicsArtPlusPlus-23.8.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.7.3",
+          "date": "2023-11-28",
+          "size": 100146477,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/PicsArtPlusPlus-23.7.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.6.4",
+          "date": "2023-11-18",
+          "size": 99766481,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PicsArtPlusPlus-23.6.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.6.3",
+          "date": "2023-11-13",
+          "size": 90738824,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/PicsArtPlusPlus-23.6.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.5.3",
+          "date": "2023-11-08",
+          "size": 104745334,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/PicsArtPlusPlus-23.5.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.5.2",
+          "date": "2023-11-04",
+          "size": 104743752,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-04-2023/PicsArtPlusPlus-23.5.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.5.1",
+          "date": "2023-11-01",
+          "size": 102531555,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/PicsArtPlusPlus-23.5.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.4.3",
+          "date": "2023-10-20",
+          "size": 104758490,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/PicsArtPlusPlus-23.4.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.3.4",
+          "date": "2023-10-11",
+          "size": 103585347,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/PicsArtPlusPlus-23.3.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "23.3.3",
+          "date": "2023-10-05",
+          "size": 96172924,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/PicsArtPlusPlus-23.3.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.7.1",
+          "date": "2023-07-25",
+          "size": 103395444,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PicsArtPlusPlus-22.7.1.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.6.2",
+          "date": "2023-06-30",
+          "size": 97907313,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/PicsArtPlusPlus-22.6.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.5.6",
+          "date": "2023-06-27",
+          "size": 102553252,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2023/PicsArtPlusPlus-22.5.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.4.4",
+          "date": "2023-06-04",
+          "size": 94135314,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/PicsArtPlusPlus-22.4.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.3.5",
+          "date": "2023-05-29",
+          "size": 94718889,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/PicsArtPlusPlus-22.3.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.3.2",
+          "date": "2023-05-17",
+          "size": 85332473,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/PicsArtPlusPlus-22.3.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.1.7",
+          "date": "2023-05-01",
+          "size": 91292482,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2023/PicsArtPlusPlus-22.1.7.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.1.6",
+          "date": "2023-04-24",
+          "size": 87605312,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2023/PicsArtPlusPlus-22.1.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.0.6",
+          "date": "2023-04-15",
+          "size": 95032916,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/PicsArtPlusPlus-22.0.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "22.0.3",
+          "date": "2023-04-08",
+          "size": 98569302,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/PicsArtPlusPlus-22.0.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.9.5",
+          "date": "2023-03-31",
+          "size": 89964583,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/PicsArtPlusPlus-21.9.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.9.4",
+          "date": "2023-03-23",
+          "size": 89945821,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/PicsArtPlusPlus-21.9.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.8.7",
+          "date": "2023-03-18",
+          "size": 89883836,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/PicsArtPlusPlus-21.8.7.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.8.5",
+          "date": "2023-03-09",
+          "size": 89878202,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/PicsArtPlusPlus-21.8.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.7.3",
+          "date": "2023-03-05",
+          "size": 89057077,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/PicsArtPlusPlus-21.7.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.7.2",
+          "date": "2023-02-28",
+          "size": 84242704,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/PicsArtPlusPlus-21.7.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.6.4",
+          "date": "2023-02-15",
+          "size": 90803300,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PicsArtPlusPlus-21.6.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.6.3",
+          "date": "2023-02-14",
+          "size": 95326510,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/PicsArtPlusPlus-21.6.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.5.6",
+          "date": "2023-02-10",
+          "size": 94968087,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/PicsArtPlusPlus-21.5.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.5.5",
+          "date": "2023-02-09",
+          "size": 83700828,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/PicsArtPlusPlus-21.5.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.5.4",
+          "date": "2023-02-06",
+          "size": 93292357,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/PicsArtPlusPlus-21.5.4.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.5.3",
+          "date": "2023-02-01",
+          "size": 93292925,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/PicsArtPlusPlus-21.5.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.4.7",
+          "date": "2023-01-23",
+          "size": 106754941,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/PicsArtPlusPlus-21.4.7.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.4.6",
+          "date": "2023-01-19",
+          "size": 109413971,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/PicsArtPlusPlus-21.4.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.4.3",
+          "date": "2023-01-12",
+          "size": 109380528,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/PicsArtPlusPlus-21.4.3.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.3.14",
+          "date": "2022-12-30",
+          "size": 85002160,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2022/PicsArtPlusPlus-21.3.14.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.3.11",
+          "date": "2022-12-23",
+          "size": 106146615,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/PicsArtPlusPlus-21.3.11.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.3.9",
+          "date": "2022-12-21",
+          "size": 106125185,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/PicsArtPlusPlus-21.3.9.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.3.8",
+          "date": "2022-12-17",
+          "size": 105724993,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/PicsArtPlusPlus-21.3.8.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.2.6",
+          "date": "2022-12-06",
+          "size": 106046582,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2022/PicsArtPlusPlus-21.2.6.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.1.5",
+          "date": "2022-11-27",
+          "size": 81296588,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/PicsArtPlusPlus-21.1.5.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "21.0.2",
+          "date": "2022-11-20",
+          "size": 101722265,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/PicsArtPlusPlus-21.0.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "19.8.2",
+          "date": "2022-11-12",
+          "size": 60634846,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/PicsArtPlusPlus-19.8.2.ipa",
+          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TikTokDark",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "Manpreet Singh @thisismanpreets / AppDB / DPixel / FayezUpdates / iApps / zxcvbn's tweaked IPAs / nowesr1",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+      "versions": [
+        {
+          "version": "32.9.1",
+          "date": "2024-01-14",
+          "size": 243748720,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/TikTokDark-32.9.1.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "32.6.0",
+          "date": "2023-12-25",
+          "size": 235723768,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/TikTokDark-32.6.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "32.5.0",
+          "date": "2023-12-13",
+          "size": 242130045,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/TikTokDark-32.5.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "32.4.0",
+          "date": "2023-12-06",
+          "size": 231669842,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/TikTokDark-32.4.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "32.1.0",
+          "date": "2023-11-18",
+          "size": 268539701,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/TikTokDark-32.1.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.8.0",
+          "date": "2023-08-19",
+          "size": 238419076,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/TikTokDark-30.8.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.7.0",
+          "date": "2023-08-08",
+          "size": 235047661,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/TikTokDark-30.7.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.6.0",
+          "date": "2023-08-02",
+          "size": 169756636,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/TikTokDark-30.6.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.5.0",
+          "date": "2023-07-26",
+          "size": 228728729,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/TikTokDark-30.5.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.4.0",
+          "date": "2023-07-25",
+          "size": 169760516,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokDark-30.4.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.3.0",
+          "date": "2023-07-11",
+          "size": 226136340,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/TikTokDark-30.3.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.2.0",
+          "date": "2023-07-05",
+          "size": 167450012,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-05-2023/TikTokDark-30.2.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.1.0",
+          "date": "2023-06-29",
+          "size": 226257129,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TikTokDark-30.1.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "30.0.0",
+          "date": "2023-06-25",
+          "size": 222929008,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TikTokDark-30.0.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.7.0",
+          "date": "2023-06-04",
+          "size": 165357200,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/TikTokDark-29.7.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.6.0",
+          "date": "2023-05-29",
+          "size": 164606635,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/TikTokDark-29.6.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.5.0",
+          "date": "2023-05-17",
+          "size": 163813779,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/TikTokDark-29.5.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.3.0",
+          "date": "2023-05-10",
+          "size": 162910551,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokDark-29.3.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.2.0",
+          "date": "2023-04-25",
+          "size": 163039384,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/TikTokDark-29.2.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.1.1",
+          "date": "2023-04-20",
+          "size": 164591911,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2023/TikTokDark-29.1.1.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.1.0",
+          "date": "2023-04-20",
+          "size": 164592918,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/TikTokDark-29.1.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "29.0.0",
+          "date": "2023-04-13",
+          "size": 164038801,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TikTokDark-29.0.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "28.9.0",
+          "date": "2023-04-05",
+          "size": 224953059,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2023/TikTokDark-28.9.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "28.4.1",
+          "date": "2023-03-18",
+          "size": 214129262,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/TikTokDark-28.4.1.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "28.4.0",
+          "date": "2023-02-28",
+          "size": 147797612,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/TikTokDark-28.4.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "28.2.0",
+          "date": "2023-02-14",
+          "size": 161357074,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/TikTokDark-28.2.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "28.1.0",
+          "date": "2023-02-09",
+          "size": 227925817,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/TikTokDark-28.1.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.9.0",
+          "date": "2023-01-28",
+          "size": 157852923,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2023/TikTokDark-27.9.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.7.1",
+          "date": "2023-01-12",
+          "size": 155574707,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/TikTokDark-27.7.1.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.7.0",
+          "date": "2023-01-10",
+          "size": 213567946,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/TikTokDark-27.7.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.6.0",
+          "date": "2023-01-07",
+          "size": 219113676,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2023/TikTokDark-27.6.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.6.0",
+          "date": "2023-01-05",
+          "size": 155698837,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/TikTokDark-27.6.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.4.0",
+          "date": "2022-12-23",
+          "size": 155462907,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/TikTokDark-27.4.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.3.0",
+          "date": "2022-12-15",
+          "size": 150709121,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/TikTokDark-27.3.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.2.0",
+          "date": "2022-12-09",
+          "size": 150004915,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/TikTokDark-27.2.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.1.0",
+          "date": "2022-12-01",
+          "size": 139443165,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TikTokDark-27.1.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "27.0.0",
+          "date": "2022-11-27",
+          "size": 140006974,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/TikTokDark-27.0.0.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "1.0",
+          "date": "2022-11-10",
+          "size": 166294832,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TikTokDark.ipa",
+          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 01-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "TrollStar",
+      "bundleIdentifier": "com.34306.trollforce",
+      "developerName": "34306",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.34306.trollforce.png",
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2024-01-14",
+          "size": 1155628,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/TrollStar-1.1.ipa",
+          "localizedDescription": "TrollStar, which functions primarily as a TrollStore installer, offers a notably more dependable installation process compared to Misaka. A tutorial made by Michael can be found here. Note: Read carefully the repo and releases tab for more informations.\nLast updated: 01-14-2024\nStatus: \u2705 \ud83d\udc4d"
+        }
+      ]
+    },
+    {
+      "name": "VPNSatoshi",
+      "bundleIdentifier": "com.vpnsatoshi.vpnsatoshiapp",
+      "developerName": "Binnichtaktiv06",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.vpnsatoshi.vpnsatoshiapp.png",
+      "versions": [
+        {
+          "version": "2.4",
+          "date": "2024-01-14",
+          "size": 36949562,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/VPNSatoshi-2.4.ipa",
+          "localizedDescription": "If other VPNs from the repo aren't working, this one seems also to be working well on Trollstore.\nLast updated: 01-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
+      "name": "YTLitePlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Balackburn",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+      "versions": [
+        {
+          "version": "19.01.1-2.4",
+          "date": "2024-01-14",
+          "size": 111109506,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/YTLitePlus-19.01.1-2.4.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.49.3-2.4",
+          "date": "2023-12-25",
+          "size": 111530441,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/YTLitePlus-18.49.3-2.4.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 01-14-2024\nStatus: \u2705"
+        },
+        {
+          "version": "18.48.3-2.4",
+          "date": "2023-12-17",
+          "size": 111274005,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/YTLitePlus-18.48.3-2.4.ipa",
+          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 01-14-2024\nStatus: \u2705"
+        }
+      ]
+    },
+    {
       "name": "FacebookWolf",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement \uea00",
@@ -309,106 +1455,6 @@
           "size": 143311099,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/FacebookWolf.ipa",
           "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema\nLast updated: 01-13-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
-      "name": "Helium",
-      "bundleIdentifier": "com.leemin.helium",
-      "developerName": "leminlimez",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.leemin.helium.png",
-      "versions": [
-        {
-          "version": "2.1",
-          "date": "2024-01-13",
-          "size": 3874054,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/Helium-2.1.ipa",
-          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 01-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.2",
-          "date": "2024-01-13",
-          "size": 3896129,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/Helium-2.2.ipa",
-          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 01-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.0.2",
-          "date": "2023-12-26",
-          "size": 3829465,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2023/Helium-2.0.2.ipa",
-          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 01-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "2.0.1",
-          "date": "2023-12-24",
-          "size": 3827002,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Helium-2.0.1.ipa",
-          "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 01-13-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "InstagramNyx",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement \uea00",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "313.0.2-1.1.8",
-          "date": "2024-01-13",
-          "size": 147145429,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-13-2024/InstagramNyx-313.0.2-1.1.8.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-1.1.8b2",
-          "date": "2024-01-03",
-          "size": 144606204,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/InstagramNyx-312.0.1-1.1.8b2.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-1.1.8",
-          "date": "2023-12-28",
-          "size": 145628785,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/InstagramNyx-312.0.1-1.1.8.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "312.0.1-1.1.6",
-          "date": "2023-12-25",
-          "size": 143349474,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/InstagramNyx-312.0.1-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "311.0.2-1.1.6",
-          "date": "2023-12-12",
-          "size": 142283496,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/InstagramNyx-311.0.2-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "310.0.4-1.1.6",
-          "date": "2023-12-11",
-          "size": 139562066,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InstagramNyx-310.0.4-1.1.6.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "310.0.4-1.1.4",
-          "date": "2023-12-04",
-          "size": 133602409,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-04-2023/InstagramNyx-310.0.4-1.1.4.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-13-2024\nStatus: \u2705"
-        },
-        {
-          "version": "309.1.1-1.1.4",
-          "date": "2023-12-03",
-          "size": 133971258,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2023/InstagramNyx-309.1.1-1.1.4.ipa",
-          "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 01-13-2024\nStatus: \u2705"
         }
       ]
     },
@@ -1190,259 +2236,6 @@
       ]
     },
     {
-      "name": "BHTikTokPlus",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "BandarHL / dayanch96 / zxcvbn's tweaked IPAs / mbs0ft",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "32.9.1-2.3",
-          "date": "2024-01-12",
-          "size": 193340507,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2024/BHTikTokPlus-32.9.1-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.9.0-2.3",
-          "date": "2024-01-09",
-          "size": 234418283,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/BHTikTokPlus-32.9.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.8.0-2.3",
-          "date": "2024-01-03",
-          "size": 235859225,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2024/BHTikTokPlus-32.8.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.7.0-2.3",
-          "date": "2023-12-28",
-          "size": 236887294,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/BHTikTokPlus-32.7.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.6.0-2.3",
-          "date": "2023-12-19",
-          "size": 236795267,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BHTikTokPlus-32.6.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.5.0-2.3",
-          "date": "2023-12-18",
-          "size": 244719404,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-18-2023/BHTikTokPlus-32.5.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.4.0-2.3",
-          "date": "2023-12-05",
-          "size": 235256295,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/BHTikTokPlus-32.4.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.3.0-2.3",
-          "date": "2023-11-28",
-          "size": 235569969,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/BHTikTokPlus-32.3.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.2.0-2.3",
-          "date": "2023-11-21",
-          "size": 230416806,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-21-2023/BHTikTokPlus-32.2.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.1.0-2.3",
-          "date": "2023-11-15",
-          "size": 268499892,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHTikTokPlus-32.1.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "32.0.0-2.3",
-          "date": "2023-11-09",
-          "size": 251556245,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2023/BHTikTokPlus-32.0.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.9.0-2.3",
-          "date": "2023-11-01",
-          "size": 235764456,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/BHTikTokPlus-31.9.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.8.0-2.3",
-          "date": "2023-10-25",
-          "size": 238521629,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-25-2023/BHTikTokPlus-31.8.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.7.0-2.3",
-          "date": "2023-10-19",
-          "size": 237220393,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-19-2023/BHTikTokPlus-31.7.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.5.0-2.3",
-          "date": "2023-10-14",
-          "size": 239507576,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/BHTikTokPlus-31.5.0-2.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.5.0-2.2.1",
-          "date": "2023-10-09",
-          "size": 233187621,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-09-2023/BHTikTokPlus-31.5.0-2.2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.4.0-2.2.1",
-          "date": "2023-10-03",
-          "size": 233623072,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-03-2023/BHTikTokPlus-31.4.0-2.2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.3.0-2.2.1",
-          "date": "2023-09-21",
-          "size": 231208792,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-21-2023/BHTikTokPlus-31.3.0-2.2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.2.0-2.2.1",
-          "date": "2023-09-18",
-          "size": 231301882,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-18-2023/BHTikTokPlus-31.2.0-2.2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.1.0-2.2",
-          "date": "2023-09-14",
-          "size": 230428022,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-14-2023/BHTikTokPlus-31.1.0-2.2.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.1.0-2.1",
-          "date": "2023-09-12",
-          "size": 230414152,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-12-2023/BHTikTokPlus-31.1.0-2.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.1.0-2.0",
-          "date": "2023-09-08",
-          "size": 170308209,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2023/BHTikTokPlus-31.1.0-2.0.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.0.2-2.0",
-          "date": "2023-09-05",
-          "size": 169559209,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-05-2023/BHTikTokPlus-31.0.2-2.0.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.0.0-2.0",
-          "date": "2023-09-02",
-          "size": 169557840,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-02-2023/BHTikTokPlus-31.0.0-2.0.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "31.0.0-1.4",
-          "date": "2023-08-31",
-          "size": 169398360,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-31-2023/BHTikTokPlus-31.0.0-1.4.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.9.0-1.4",
-          "date": "2023-08-25",
-          "size": 167025365,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-25-2023/BHTikTokPlus-30.9.0-1.4.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.8.0-1.4",
-          "date": "2023-08-22",
-          "size": 165875592,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-22-2023/BHTikTokPlus-30.8.0-1.4.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.8.0-1.3",
-          "date": "2023-08-20",
-          "size": 165421921,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-20-2023/BHTikTokPlus-30.8.0-1.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.7.0-1.3",
-          "date": "2023-08-11",
-          "size": 231427797,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2023/BHTikTokPlus-30.7.0-1.3.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.7.0-1.2",
-          "date": "2023-08-09",
-          "size": 228018550,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2023/BHTikTokPlus-30.7.0-1.2.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.6.0-1.2",
-          "date": "2023-08-07",
-          "size": 228787999,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-07-2023/BHTikTokPlus-30.6.0-1.2.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.6.0-0.0.1",
-          "date": "2023-08-02",
-          "size": 169954110,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/BHTikTokPlus-30.6.0-0.0.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.5.0-0.0.1",
-          "date": "2023-07-27",
-          "size": 170947897,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-27-2023/BHTikTokPlus-30.5.0-0.0.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.4.0-0.0.1",
-          "date": "2023-07-25",
-          "size": 169956138,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/BHTikTokPlus-30.4.0-0.0.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        },
-        {
-          "version": "30.3.0-0.0.1",
-          "date": "2023-07-13",
-          "size": 226368598,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2023/BHTikTokPlus-30.3.0-0.0.1.ipa",
-          "localizedDescription": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD : Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository.\nLast updated: dayanch96 : 01-12-2024 / BandarHL : 08-19-2023\nStatus: \u2705 \ud83d\udc4d \u2b50"
-        }
-      ]
-    },
-    {
       "name": "Kodi",
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "CyPwn IPA Library / ArianaMinajj",
@@ -1722,56 +2515,56 @@
           "date": "2024-01-12",
           "size": 231467158,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2024/TikTokLRDCracked-3.4-32.9.0.ipa",
-          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 01-07-2024\nStatus: \u2705"
+          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-07-2024\nStatus: \u2705"
         },
         {
           "version": "3.4-32.8.0",
           "date": "2024-01-07",
           "size": 182176349,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2024/TikTokLRDCracked-3.4-32.8.0.ipa",
-          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 01-07-2024\nStatus: \u2705"
+          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-07-2024\nStatus: \u2705"
         },
         {
           "version": "3.0-31.8.0",
           "date": "2024-01-04",
           "size": 257140466,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2024/TikTokLRDCracked-3.0-31.8.0.ipa",
-          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 01-07-2024\nStatus: \u2705"
+          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-07-2024\nStatus: \u2705"
         },
         {
           "version": "2.5-31.9.0",
           "date": "2023-11-02",
           "size": 239968530,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-02-2023/TikTokLRDCracked-2.5-31.9.0.ipa",
-          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 01-07-2024\nStatus: \u2705"
+          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-07-2024\nStatus: \u2705"
         },
         {
           "version": "2.5-31.8.0",
           "date": "2023-10-27",
           "size": 242736601,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-27-2023/TikTokLRDCracked-2.5-31.8.0.ipa",
-          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 01-07-2024\nStatus: \u2705"
+          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-07-2024\nStatus: \u2705"
         },
         {
           "version": "2.5-31.3.0",
           "date": "2023-10-01",
           "size": 234888233,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-01-2023/TikTokLRDCracked-2.5-31.3.0.ipa",
-          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 01-07-2024\nStatus: \u2705"
+          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-07-2024\nStatus: \u2705"
         },
         {
           "version": "2.5-31.0.2",
           "date": "2023-09-07",
           "size": 244002134,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-07-2023/TikTokLRDCracked-2.5-31.0.2.ipa",
-          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 01-07-2024\nStatus: \u2705"
+          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-07-2024\nStatus: \u2705"
         },
         {
           "version": "2.5-30.3.0",
           "date": "2023-07-25",
           "size": 223153658,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokLRDCracked-2.5-30.3.0.ipa",
-          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 01-07-2024\nStatus: \u2705"
+          "localizedDescription": "Fixed for TrollStore. TikTok, injected with a cracked version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-07-2024\nStatus: \u2705"
         }
       ]
     },
@@ -1938,35 +2731,6 @@
       ]
     },
     {
-      "name": "Ignited",
-      "bundleIdentifier": "com.litritt.ignited",
-      "developerName": "LitRitt",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.litritt.ignited.png",
-      "versions": [
-        {
-          "version": "1.8.3",
-          "date": "2024-01-11",
-          "size": 73937401,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/Ignited-1.8.3.ipa",
-          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.2",
-          "date": "2023-12-24",
-          "size": 62168615,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-24-2023/Ignited-1.7.2.ipa",
-          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "1.7.1",
-          "date": "2023-12-12",
-          "size": 62108889,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/Ignited-1.7.1.ipa",
-          "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 01-11-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "InfusePro",
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "Suffuse-Team",
@@ -2090,329 +2854,6 @@
           "size": 44545614,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-10-2023/InfusePro-7.4.10.ipa",
           "localizedDescription": "Fancy media/video player, cracked for premium. Full app description here\nLast updated: 01-11-2024\nStatus: \u2705 \ud83d\udc4d"
-        }
-      ]
-    },
-    {
-      "name": "PicsArtPlusPlus",
-      "bundleIdentifier": "com.picsart.studio",
-      "developerName": "zxcvbn\u2019s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / FayezUpdates / \u062a\u0637\u0628\u064a\u0642\u0627\u062a IPA \ud83c\udf19 / Manpreet Singh @thisismanpreets / Qamislo - Apps / Turki / IPA Fire / HertzSign iPA Library",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
-      "versions": [
-        {
-          "version": "24.0.1",
-          "date": "2024-01-11",
-          "size": 100312892,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-11-2024/PicsArtPlusPlus-24.0.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.9.1",
-          "date": "2023-12-28",
-          "size": 104714105,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-28-2023/PicsArtPlusPlus-23.9.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.8.1",
-          "date": "2023-12-12",
-          "size": 98696332,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2023/PicsArtPlusPlus-23.8.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.7.3",
-          "date": "2023-11-28",
-          "size": 100146477,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/PicsArtPlusPlus-23.7.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.6.4",
-          "date": "2023-11-18",
-          "size": 99766481,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/PicsArtPlusPlus-23.6.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.6.3",
-          "date": "2023-11-13",
-          "size": 90738824,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/PicsArtPlusPlus-23.6.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.5.3",
-          "date": "2023-11-08",
-          "size": 104745334,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-08-2023/PicsArtPlusPlus-23.5.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.5.2",
-          "date": "2023-11-04",
-          "size": 104743752,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-04-2023/PicsArtPlusPlus-23.5.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.5.1",
-          "date": "2023-11-01",
-          "size": 102531555,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-01-2023/PicsArtPlusPlus-23.5.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.4.3",
-          "date": "2023-10-20",
-          "size": 104758490,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-20-2023/PicsArtPlusPlus-23.4.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.3.4",
-          "date": "2023-10-11",
-          "size": 103585347,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-11-2023/PicsArtPlusPlus-23.3.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "23.3.3",
-          "date": "2023-10-05",
-          "size": 96172924,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-05-2023/PicsArtPlusPlus-23.3.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "22.7.1",
-          "date": "2023-07-25",
-          "size": 103395444,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/PicsArtPlusPlus-22.7.1.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "22.6.2",
-          "date": "2023-06-30",
-          "size": 97907313,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-30-2023/PicsArtPlusPlus-22.6.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "22.5.6",
-          "date": "2023-06-27",
-          "size": 102553252,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-27-2023/PicsArtPlusPlus-22.5.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "22.4.4",
-          "date": "2023-06-04",
-          "size": 94135314,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/PicsArtPlusPlus-22.4.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "22.3.5",
-          "date": "2023-05-29",
-          "size": 94718889,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/PicsArtPlusPlus-22.3.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "22.3.2",
-          "date": "2023-05-17",
-          "size": 85332473,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/PicsArtPlusPlus-22.3.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "22.1.7",
-          "date": "2023-05-01",
-          "size": 91292482,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-30-2023/PicsArtPlusPlus-22.1.7.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "22.1.6",
-          "date": "2023-04-24",
-          "size": 87605312,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2023/PicsArtPlusPlus-22.1.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "22.0.6",
-          "date": "2023-04-15",
-          "size": 95032916,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-14-2023/PicsArtPlusPlus-22.0.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "22.0.3",
-          "date": "2023-04-08",
-          "size": 98569302,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-07-2023/PicsArtPlusPlus-22.0.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.9.5",
-          "date": "2023-03-31",
-          "size": 89964583,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2023/PicsArtPlusPlus-21.9.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.9.4",
-          "date": "2023-03-23",
-          "size": 89945821,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-23-2023/PicsArtPlusPlus-21.9.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.8.7",
-          "date": "2023-03-18",
-          "size": 89883836,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/PicsArtPlusPlus-21.8.7.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.8.5",
-          "date": "2023-03-09",
-          "size": 89878202,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-08-2023/PicsArtPlusPlus-21.8.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.7.3",
-          "date": "2023-03-05",
-          "size": 89057077,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-04-2023/PicsArtPlusPlus-21.7.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.7.2",
-          "date": "2023-02-28",
-          "size": 84242704,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-27-2023/PicsArtPlusPlus-21.7.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.6.4",
-          "date": "2023-02-15",
-          "size": 90803300,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2023/PicsArtPlusPlus-21.6.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.6.3",
-          "date": "2023-02-14",
-          "size": 95326510,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/PicsArtPlusPlus-21.6.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.5.6",
-          "date": "2023-02-10",
-          "size": 94968087,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/PicsArtPlusPlus-21.5.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.5.5",
-          "date": "2023-02-09",
-          "size": 83700828,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/PicsArtPlusPlus-21.5.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.5.4",
-          "date": "2023-02-06",
-          "size": 93292357,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/PicsArtPlusPlus-21.5.4.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.5.3",
-          "date": "2023-02-01",
-          "size": 93292925,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2023/PicsArtPlusPlus-21.5.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.4.7",
-          "date": "2023-01-23",
-          "size": 106754941,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-23-2023/PicsArtPlusPlus-21.4.7.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.4.6",
-          "date": "2023-01-19",
-          "size": 109413971,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-19-2023/PicsArtPlusPlus-21.4.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.4.3",
-          "date": "2023-01-12",
-          "size": 109380528,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/PicsArtPlusPlus-21.4.3.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.3.14",
-          "date": "2022-12-30",
-          "size": 85002160,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2022/PicsArtPlusPlus-21.3.14.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.3.11",
-          "date": "2022-12-23",
-          "size": 106146615,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/PicsArtPlusPlus-21.3.11.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.3.9",
-          "date": "2022-12-21",
-          "size": 106125185,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/PicsArtPlusPlus-21.3.9.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.3.8",
-          "date": "2022-12-17",
-          "size": 105724993,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/PicsArtPlusPlus-21.3.8.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.2.6",
-          "date": "2022-12-06",
-          "size": 106046582,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2022/PicsArtPlusPlus-21.2.6.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.1.5",
-          "date": "2022-11-27",
-          "size": 81296588,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/PicsArtPlusPlus-21.1.5.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "21.0.2",
-          "date": "2022-11-20",
-          "size": 101722265,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/PicsArtPlusPlus-21.0.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
-        },
-        {
-          "version": "19.8.2",
-          "date": "2022-11-12",
-          "size": 60634846,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-11-2022/PicsArtPlusPlus-19.8.2.ipa",
-          "localizedDescription": "PicsArt with premium features enbled\nLast updated: 01-11-2024\nStatus: \u2705"
         }
       ]
     },
@@ -5271,21 +5712,6 @@
       ]
     },
     {
-      "name": "InstagramLRDCracked",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Crack_Sa1",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "2.5-312.0.1",
-          "date": "2024-01-07",
-          "size": 126639139,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2024/InstagramLRDCracked-2.5-312.0.1.ipa",
-          "localizedDescription": "Cracked, Similar features to TikTokLRD but specifically tailored for Instagram. Note: Notifications appear to not be working for some reason.\nLast updated: 01-07-2024\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "BeRealBea",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
@@ -5940,28 +6366,6 @@
           "size": 282680,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-26-2023/CattleGrid-1.1.1.ipa",
           "localizedDescription": "Allows you to create your own amiibo utilizing ntag215 on an jailbroken or TrollStore device. Note: After you've installed the app, you need to manually locate the tag bin files and place them in the /var/mobile/Documents/CattleGrid/ directory.\nLast updated: 12-26-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "YTLitePlus",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Balackburn",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-      "versions": [
-        {
-          "version": "18.49.3-2.4",
-          "date": "2023-12-25",
-          "size": 111530441,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2023/YTLitePlus-18.49.3-2.4.ipa",
-          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 12-25-2023\nStatus: \u2705"
-        },
-        {
-          "version": "18.48.3-2.4",
-          "date": "2023-12-17",
-          "size": 111274005,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2023/YTLitePlus-18.48.3-2.4.ipa",
-          "localizedDescription": "A streamlined version of YouTube, built on the YTLite base by dayanch96. It includes more than 15 enhancements, like ReturnYoutubeDislike and iSponsorBlock, and avoids excess tabs or overlays for a cleaner user experience.\nLast updated: 12-25-2023\nStatus: \u2705"
         }
       ]
     },
@@ -6843,273 +7247,6 @@
           "size": 57652265,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/10-14-2023/QuizletPlus-8.6.ipa",
           "localizedDescription": "App description here. Quizlet Plus injected. Provided for free thanks to AIpaLux, tweak originally available through iApps paid repo. Note: please be aware that occasional random crashes can occur while using the app.\nLast updated: 12-21-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "TikTokDark",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "Manpreet Singh @thisismanpreets / AppDB / DPixel / FayezUpdates / iApps / zxcvbn's tweaked IPAs / nowesr1",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
-      "versions": [
-        {
-          "version": "32.6.0",
-          "date": "2023-12-25",
-          "size": 235723768,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2023/TikTokDark-32.6.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "32.5.0",
-          "date": "2023-12-13",
-          "size": 242130045,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-13-2023/TikTokDark-32.5.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "32.4.0",
-          "date": "2023-12-06",
-          "size": 231669842,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/TikTokDark-32.4.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "32.1.0",
-          "date": "2023-11-18",
-          "size": 268539701,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/TikTokDark-32.1.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "30.8.0",
-          "date": "2023-08-19",
-          "size": 238419076,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-19-2023/TikTokDark-30.8.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "30.7.0",
-          "date": "2023-08-08",
-          "size": 235047661,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2023/TikTokDark-30.7.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "30.6.0",
-          "date": "2023-08-02",
-          "size": 169756636,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-02-2023/TikTokDark-30.6.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "30.5.0",
-          "date": "2023-07-26",
-          "size": 228728729,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-26-2023/TikTokDark-30.5.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "30.4.0",
-          "date": "2023-07-25",
-          "size": 169760516,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/TikTokDark-30.4.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "30.3.0",
-          "date": "2023-07-11",
-          "size": 226136340,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/TikTokDark-30.3.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "30.2.0",
-          "date": "2023-07-05",
-          "size": 167450012,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-05-2023/TikTokDark-30.2.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "30.1.0",
-          "date": "2023-06-29",
-          "size": 226257129,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TikTokDark-30.1.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "30.0.0",
-          "date": "2023-06-25",
-          "size": 222929008,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TikTokDark-30.0.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "29.7.0",
-          "date": "2023-06-04",
-          "size": 165357200,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/TikTokDark-29.7.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "29.6.0",
-          "date": "2023-05-29",
-          "size": 164606635,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-29-2023/TikTokDark-29.6.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "29.5.0",
-          "date": "2023-05-17",
-          "size": 163813779,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2023/TikTokDark-29.5.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "29.3.0",
-          "date": "2023-05-10",
-          "size": 162910551,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2023/TikTokDark-29.3.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "29.2.0",
-          "date": "2023-04-25",
-          "size": 163039384,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-25-2023/TikTokDark-29.2.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "29.1.1",
-          "date": "2023-04-20",
-          "size": 164591911,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-20-2023/TikTokDark-29.1.1.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "29.1.0",
-          "date": "2023-04-20",
-          "size": 164592918,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/TikTokDark-29.1.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "29.0.0",
-          "date": "2023-04-13",
-          "size": 164038801,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/TikTokDark-29.0.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "28.9.0",
-          "date": "2023-04-05",
-          "size": 224953059,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-05-2023/TikTokDark-28.9.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "28.4.1",
-          "date": "2023-03-18",
-          "size": 214129262,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-18-2023/TikTokDark-28.4.1.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "28.4.0",
-          "date": "2023-02-28",
-          "size": 147797612,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2023/TikTokDark-28.4.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "28.2.0",
-          "date": "2023-02-14",
-          "size": 161357074,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2023/TikTokDark-28.2.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "28.1.0",
-          "date": "2023-02-09",
-          "size": 227925817,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/TikTokDark-28.1.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "27.9.0",
-          "date": "2023-01-28",
-          "size": 157852923,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2023/TikTokDark-27.9.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "27.7.1",
-          "date": "2023-01-12",
-          "size": 155574707,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/TikTokDark-27.7.1.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "27.7.0",
-          "date": "2023-01-10",
-          "size": 213567946,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/TikTokDark-27.7.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "27.6.0",
-          "date": "2023-01-07",
-          "size": 219113676,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2023/TikTokDark-27.6.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "27.6.0",
-          "date": "2023-01-05",
-          "size": 155698837,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-05-2023/TikTokDark-27.6.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "27.4.0",
-          "date": "2022-12-23",
-          "size": 155462907,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/TikTokDark-27.4.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "27.3.0",
-          "date": "2022-12-15",
-          "size": 150709121,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-15-2022/TikTokDark-27.3.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "27.2.0",
-          "date": "2022-12-09",
-          "size": 150004915,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/TikTokDark-27.2.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "27.1.0",
-          "date": "2022-12-01",
-          "size": 139443165,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2022/TikTokDark-27.1.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "27.0.0",
-          "date": "2022-11-27",
-          "size": 140006974,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/TikTokDark-27.0.0.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
-        },
-        {
-          "version": "1.0",
-          "date": "2022-11-10",
-          "size": 166294832,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TikTokDark.ipa",
-          "localizedDescription": "Alternative to DLTikTok with similar features. If you don't see a settings option for Dark, click the empty space at the top right of the TikTok settings page. It's an invisible button\nLast updated: 12-21-2023\nStatus: \u2705"
         }
       ]
     },
@@ -8632,21 +8769,6 @@
       ]
     },
     {
-      "name": "Crunchyroll",
-      "bundleIdentifier": "com.crunchyroll.iphone",
-      "developerName": "N/A",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.crunchyroll.iphone.png",
-      "versions": [
-        {
-          "version": "4.40.0",
-          "date": "2023-12-01",
-          "size": 72594141,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-01-2023/Crunchyroll-4.40.0.ipa",
-          "localizedDescription": "The app, in its unaltered form\u2014no tweaks, no cracks, no ad-block, simply a decrypted Crunchyroll app. It seems that the app isn't accessible in some countries, and a request prompted its inclusion. Since it functions (again) when decrypted with TrollStore 2, I decided to include it (back) in this list.\nLast updated: 12-01-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
       "name": "Goodnotes6",
       "bundleIdentifier": "com.goodnotesapp.x",
       "developerName": "ipalibrary.me",
@@ -9525,42 +9647,6 @@
           "size": 32877,
           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/DirtyCowApp-1.0.ipa",
           "localizedDescription": "An all-in-one app for tweaks for iOS 15-16.1.2\nLast updated: 08-12-2023\nStatus: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "Paperback",
-      "bundleIdentifier": "dev.faizandurrani.moe.paperback.app",
-      "developerName": "N/A",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/dev.faizandurrani.moe.paperback.app.png",
-      "versions": [
-        {
-          "version": "0.8.6",
-          "date": "2023-08-05",
-          "size": 10727226,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2023/Paperback-0.8.6.ipa",
-          "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 08-05-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "0.8.5",
-          "date": "2023-07-28",
-          "size": 11315329,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-28-2023/Paperback-0.8.5.ipa",
-          "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 08-05-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "0.8.3",
-          "date": "2023-07-25",
-          "size": 11269111,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-25-2023/Paperback-0.8.3.ipa",
-          "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 08-05-2023\nStatus: \u2705 \ud83d\udc4d"
-        },
-        {
-          "version": "0.8.2",
-          "date": "2023-07-14",
-          "size": 29341961,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2023/Paperback-0.8.2.ipa",
-          "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 08-05-2023\nStatus: \u2705 \ud83d\udc4d"
         }
       ]
     },
